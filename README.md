@@ -1,1 +1,1 @@
-# ** https://ishikar123.github.io/portfolio/**
+#  https://ishikar123.github.io/portfolio/
